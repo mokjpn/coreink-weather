@@ -1,1 +1,5 @@
+.DS_Store
 images/.DS_Store
+.pio/
+.vscode/
+platformio_override.ini
